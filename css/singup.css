@@ -1,0 +1,33 @@
+/* start body */
+body{
+    background-color: whitesmoke;
+    margin: 0px;
+    padding: 0px;
+    background: url(".././images/back.jpg") center center fixed;
+}
+
+.SingUp{
+    margin-top:15%;
+}
+.SingUp h1 {
+    text-align: center;
+    color: #f5ecc8;
+}
+.SingUp input{
+    display: block;
+    margin: 15px auto;
+    font-size: 16px;
+    padding: 6px;
+    width: 300px;
+    border: none;
+    border-radius: 25px;
+    padding-left: 10px;
+    letter-spacing: 2px;
+}
+.SingUp input[type='submit'] {
+    border: none;
+    width: 180px;
+    color: white;
+    background-color:  rgb(79, 160, 160);
+}
+/* end body */
